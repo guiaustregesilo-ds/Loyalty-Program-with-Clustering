@@ -84,7 +84,7 @@
     -  Bayesian A/B Testing;
     -  Hypothesis Testing.
 
-- **9. Quais ações o time de marketing pode realizar para aumentar o faturamento?**
+- **9. What actions can the marketing team take to increase revenue?**
     -  Discount;
     -  Exclusive access to products;
     -  Free shipping or a shipping discount;
